@@ -23,4 +23,4 @@ El diseño de la librería se basa en los siguientes módulos conceptuales:
 - Se establecieron las bases lógicas para procesar datos tabulares puros priorizando el bajo consumo de memoria y la velocidad de ejecución nativa.
 
 ---
-**Autor:** Matías Kronemberger | (Enlace a tu LinkedIn]](https://www.linkedin.com/in/matias-kronemberger/)
+**Autor:** Matías Kronemberger | (https://www.linkedin.com/in/matias-kronemberger/)
